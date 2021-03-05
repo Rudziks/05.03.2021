@@ -26,6 +26,21 @@ body{
     font-size: 1.2rem;
 }
 
+.btn-txt:hover{
+    color: #F2E9DC;
+}
+
+.btn-txt{
+    text-decoration: none;
+    color: #E9D9C3;
+    font-size: 1rem;
+}
+
+.btn-up{
+    position:fixed;
+    background-image: linear-gradient(to right, #292929d2, #73827869);
+}
+
 .img-r{
     float: right;
     height: 18rem;
